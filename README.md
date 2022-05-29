@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Ars</h1>
+<h1 align="center">Hey 👋, I'm Arslan</h1>
 <h3 align="center">Freshman at ITMO University. CSE '25.</h3>
 
 - 🔭 I’m currently working on **Lab7**
