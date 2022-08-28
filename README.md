@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ars2003lan@gmail.com**
 
-- 😎 My [resume](https://bit.ly/3wXV45F)
+- 😎 My [resume](https://bit.ly/3CGBAWf)
 
 
 <h3 align="left">Languages and Tools:</h3>
