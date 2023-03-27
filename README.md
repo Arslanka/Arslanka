@@ -1,7 +1,6 @@
 <h1 align="center">Hey 👋, I'm Arslan</h1>
-<h3 align="center">Yandex.Fintech Kotlin Developer.</h3>
-<h3 align="center">Second-year student at ITMO University. CSE '25.</h3>
-
+<h3 align="center"><a class = "work" href="https://bank.yandex.ru">Yandex.Fintech Kotlin Developer</h3>
+<h3 align="center"><a class = "education" href="https://abit.itmo.ru/program/bachelor/system_software">Second-year student at ITMO University. CSE '25.</h3>
 - 🌱 I’m currently learning **Java**, **Kotlin**
 
 - 📫 How to reach me [telegram](https://t.me/IarslanT), **ars2003lan@gmail.com**
