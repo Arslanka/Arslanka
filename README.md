@@ -5,7 +5,7 @@
 
 - 📫 How to reach me [telegram](https://t.me/IarslanT), **ars2003lan@gmail.com**
 
-- 😎 My [resume](https://bit.ly/3rR4e0t)
+- 😎 My [resume](https://bit.ly/3z94efF)
 
 
 <h3 align="left">Languages and Tools:</h3>
