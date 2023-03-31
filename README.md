@@ -1,11 +1,13 @@
 
   
   
-### Work and education 
+### I'm currently working as a Koltin backend developer at Yandex Bank 
 [![](https://img.shields.io/badge/Yandex.Fintech-D14836?color=2CA5E0&style=for-the-badge&logo=Yandex.Fintech&logoColor=white&&s=250)](https://bank.yandex.ru)
+
+### I'm currently studying at the ITMO university as a SWE
 [![](https://img.shields.io/badge/ITMO-D14836?color=2CA5E0&style=for-the-badge&logo=ITMO&logoColor=white&&s=250)](https://abit.itmo.ru/program/bachelor/system_software)  
 
-### Resume 
+### My resume 
 [![](https://img.shields.io/badge/resume-D14836?color=2CA5E0&style=for-the-badge&logo=resume&logoColor=white&&s=250)](https://bit.ly/3z94efF)
   
 ### Languages & Tools
