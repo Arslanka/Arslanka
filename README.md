@@ -1,13 +1,39 @@
-<h1 align="center">Hey 👋, I'm Arslan</h1>
-<h3 align="center"><a class = "work" href="https://bank.yandex.ru">Yandex.Fintech Kotlin Developer</h3>
-<h3 align="center"><a class = "education" href="https://abit.itmo.ru/program/bachelor/system_software">Second-year student at ITMO University. CSE '25.</h3>
+
   
-- 📫 How to reach me [telegram](https://t.me/IarslanT), **ars2003lan@gmail.com**
+  
+### Work and education 
+[![](https://img.shields.io/badge/Yandex.Fintech-D14836?color=2CA5E0&style=for-the-badge&logo=Yandex.Fintech&logoColor=white&&s=250)](https://bank.yandex.ru)
+[![](https://img.shields.io/badge/ITMO-D14836?color=2CA5E0&style=for-the-badge&logo=ITMO&logoColor=white&&s=250)](https://abit.itmo.ru/program/bachelor/system_software)  
 
-- 😎 My [resume](https://bit.ly/3z94efF)
+### Resume 
+[![](https://img.shields.io/badge/resume-D14836?color=2CA5E0&style=for-the-badge&logo=resume&logoColor=white&&s=250)](https://bit.ly/3z94efF)
+  
+### Follow Me
+[![](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white&&s=250)](https://t.me/IarslanT)
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arslanka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Languages & Tools
+![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=Kotlin&logoColor=violet)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=Java&logoColor)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=C&logoColor=blue)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=C++&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=PythonlogoColor=blue)
+![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=Spring&logoColor=green)
+![Spring-boot](https://img.shields.io/badge/Spring-boot-000?style=for-the-badge&logo=Spring-Boot&logoColor=green)
+![Spring-mvc](https://img.shields.io/badge/Spring-mvc-000?style=for-the-badge&logo=Spring-mvc&logoColor=green)
+![Spring-data](https://img.shields.io/badge/Spring-data-000?style=for-the-badge&logo=Spring-data&logoColor=green)
+![Mockito](https://img.shields.io/badge/Mockito-000?style=for-the-badge&logo=Mockito&logoColor=green)
+![Ktor](https://img.shields.io/badge/Ktor-000?style=for-the-badge&logo=Ktor&logoColor=green)
+ ![Junit](https://img.shields.io/badge/Ktor-000?style=for-the-badge&logo=Ktor&logoColor=green)
+![Open-api](https://img.shields.io/badge/Junit-000?style=for-the-badge&logo=Junit&logoColor=green)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=SQL&logoColor=)
+![jOOQ](https://img.shields.io/badge/jOOQ-000?style=for-the-badge&logo=jOOQ&logoColor=violet)
+![flyway](https://img.shields.io/badge/flyway-000?style=for-the-badge&logo=flyway&logoColor=)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=PostgreSQL&logoColor=purpl)
+![YDB](https://img.shields.io/badge/YDB-000?style=for-the-badge&logo=YDB&logoColor=yellow)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=MongoDB&logoColor=1)
+![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=Redis&logoColor=1)
+![Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=Kafka&logoColor=1)
+![GIT](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=GIT)
+![GitLab](https://img.shields.io/badge/GitLab-000?style=for-the-badge&logo=GitLab&logoColor=)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux)
