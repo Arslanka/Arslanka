@@ -8,9 +8,6 @@
 ### Resume 
 [![](https://img.shields.io/badge/resume-D14836?color=2CA5E0&style=for-the-badge&logo=resume&logoColor=white&&s=250)](https://bit.ly/3z94efF)
   
-### Follow Me
-[![](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white&&s=250)](https://t.me/IarslanT)
-
 ### Languages & Tools
 ![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=Kotlin&logoColor=violet)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=Java&logoColor)
@@ -37,3 +34,6 @@
 ![GitLab](https://img.shields.io/badge/GitLab-000?style=for-the-badge&logo=GitLab&logoColor=)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux)
+
+### Follow Me
+[![](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white&&s=250)](https://t.me/IarslanT)
