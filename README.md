@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/ITMO-D14836?color=2CA5E0&style=for-the-badge&logo=ITMO&logoColor=white&&s=250)](https://abit.itmo.ru/program/bachelor/system_software)  
 
 ### My resume 
-[![](https://img.shields.io/badge/resume-D14836?color=2CA5E0&style=for-the-badge&logo=resume&logoColor=white&&s=250)](https://bit.ly/3z94efF)
+[![](https://img.shields.io/badge/resume-D14836?color=2CA5E0&style=for-the-badge&logo=resume&logoColor=white&&s=250)](https://drive.google.com/file/d/19R220g3UxRd1m9io8M5aYBQpXJl69OxX/view)
   
 ### Languages & Tools
 ![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=Kotlin&logoColor=violet)
